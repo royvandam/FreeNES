@@ -1,0 +1,13 @@
+# CMake generated files
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
+# VIM temp files
+*.swp
+*.swo
+
+# System files
+.DS_Store
+.AppleDouble
